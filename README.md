@@ -1,4 +1,4 @@
-# TSV.do - TSV (Tab Separated Values) Generation & Transformation API
+# TSV.do - Tab Separated Values Generation & Transformation API
 
 Explore the API at: <https://tsv.do/api>
 
