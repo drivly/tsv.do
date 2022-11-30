@@ -1,27 +1,27 @@
-# Templates.do - Worker Templates API 
+# TSV.do - TSV (Tab Separated Values) Generation & Transformation API
 
-Explore the API at: <https://templates.do/api>
+Explore the API at: <https://tsv.do/api>
 
 ```json
 {
   "api": {
     "icon": "🚀",
-    "name": "templates.do",
-    "description": "Cloudflare Worker Template",
-    "url": "https://templates.do/api",
-    "type": "https://apis.do/templates",
+    "name": "tsv.do",
+    "description": "TSV Generation & Transformation API",
+    "url": "https://tsv.do/api",
+    "type": "https://apis.do/formats",
     "endpoints": {
-      "listCategories": "https://templates.do/api",
-      "getCategory": "https://templates.do/:type"
+      "listCategories": "https://tsv.do/api",
+      "getCategory": "https://tsv.do/:type"
     },
-    "site": "https://templates.do",
-    "login": "https://templates.do/login",
-    "signup": "https://templates.do/signup",
-    "subscribe": "https://templates.do/subscribe",
-    "repo": "https://github.com/drivly/templates.do"
+    "site": "https://tsv.do",
+    "login": "https://tsv.do/login",
+    "signup": "https://tsv.do/signup",
+    "subscribe": "https://tsv.do/subscribe",
+    "repo": "https://github.com/drivly/tsv.do"
   }
   "examples": {
-    "listItems": "https://templates.do/worker"
+    "listItems": "https://tsv.do/worker"
   }
 }
 ```
